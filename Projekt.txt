@@ -1,0 +1,44 @@
+LINK: https://www.statistik-berlin-brandenburg.de/p-i-10-j?utm
+
+Thema: Analyse des Einkommen in Berlin Brandenburg und eventuell speziel Informatikgehalt 2018 - 2025 (Speziell auf Pandemie und Inflation bezogen	)
+Primäreinkommen und verfügbares Einkommen der privaten Haushalte 
+
+Frage 1: Welche Daten möchtest du verwenden?
+Ich möchte das Einkommen privater Haushalte in Berlin-Brandenburg von ca. 2018 bis 2025 analysieren. Zusätzlich wollte ich wahrscheinlich noch speziell das Bruttogehalt von Informatikern vergleichen.
+
+LINK: 
+- Statistik Berlin-Brandenburg: jährliche Berichte mit Primär- und verfügbarem Einkommen
+- Gehaltsportale (Indeed, Kununu) für Informatikerbrutto
+
+Frage 2: Wie wirst du die Daten sammeln?
+Für die Jahre 2018–2025 lade ich die jährlichen Tabellen von der Statistik-Seite herunter. Alternativ nutze ich Webscraping oder CSV-Exports aus der MATS-Datenbank des Statistikamts oder nutze andere Quellen.
+
+Frage 3: Welche Analysen planst du? Welche Einsichten erwartest du?
+- Entwicklung von Primär- und verfügbarem Pro-Kopf-Einkommen über die Jahre
+
+- Einfluss Pandemie und Inflation auf dass Einkommen
+
+- Vergleich zwischen allgemeinem Haushaltseinkommen und Informatikergehältern
+
+- Veränderung der Einkommenslücke zwischen Informatikern und Durchschnitt.
+Erwartete Einsichten: Einbrüche während Coronapandemie, Reallohnentwicklung, Branchenunterschiede.
+
+Frage 4: Welche Visualisierungen nutzt du?
+- Liniendiagramme für Einkommenstrends (Primär‑/Verfügbares Einkommen nominal vs. real).
+
+- Balkendiagramm zum Vergleich Informatiker-Gehalt vs. allgemeines Haushaltseinkommen.
+
+- Optional: Gestapeltes Säulendiagramm zur Veranschaulichung der Einkommenszusammensetzung (Primär- vs. Transfereinkommen)
+
+Link:
+https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/Tabellen/bruttomonats-verdienste-stichmonat.html
+
+https://www.kununu.com/de/gehalt/informatiker-in-44869
+
+https://www.destatis.de/DE/Home/_inhalt.html
+
+https://de.statista.com/themen/293/durchschnittseinkommen/#statisticChapter	
+
+https://de.tradingeconomics.com/germany/disposable-personal-income
+
+https://www.jobvector.de/jobs/informatiker/12103/
